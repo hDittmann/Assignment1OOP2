@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ModernAppliances.Entities.Abstract.Appliance">
+    <Position X="17.25" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="ModernAppliances.Entities.Abstract.Appliance.ApplianceTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Entities\Abstract\Appliance.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAAAARAQAIBAABAAAACACAAAAAAAAAAQAAgIAhABA=</HashCode>
+      <FileName>Entities\Abstract\Appliance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernAppliances.Entities.Dishwasher">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAEQAAAAAgBAAAAAAACAAAAKAACIAI=</HashCode>
+      <FileName>Entities\Dishwasher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernAppliances.Entities.Microwave">
+    <Position X="20.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAwAAAAAAAEAAAAAAQCAAAEAAAwAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Microwave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernAppliances.Entities.Refrigerator">
+    <Position X="15.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQBACAAAAEAAAAAEAAABAAEAAAAAABAAAAAAA=</HashCode>
+      <FileName>Entities\Refrigerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernAppliances.Entities.Vacuum">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAgAEgAAAAAAAAAAAAACAAAAAAAEAAAA=</HashCode>
+      <FileName>Entities\Vacuum.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernAppliances.Helpers.RandomComparer">
+    <Position X="13.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAE=</HashCode>
+      <FileName>Helpers\RandomComparer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ModernAppliances.ModernAppliances">
+    <Position X="19" Y="6.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="ModernAppliances.ModernAppliances.Options" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ModernAppliances.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABBBJgACAAEBAAAAAQoAAEAAAAIACAAEACAQgAAAQA=</HashCode>
+      <FileName>ModernAppliances.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernAppliances.MyModernAppliances">
+    <Position X="16.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAABAAAAAQgAAEAAAAIAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>MyModernAppliances.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernAppliances.Program">
+    <Position X="13.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
